@@ -1,0 +1,17 @@
+.app-container{
+    display: flexbox;
+    background-color: red;
+    width: 250px;
+    padding-left: 15px;
+   
+}
+
+.numBtn, .specBtn{
+     background-color: mediumblue;
+     color: white;
+     padding: 20px;
+     border-radius: 50px;
+     border-style: none;
+     margin-right: 20px;
+     margin-top: 15px;
+}
