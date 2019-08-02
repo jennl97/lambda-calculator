@@ -10,3 +10,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.container{
+  background-color: red;
+  width: 15%;
+  padding-top: 1em;
+  padding-left: 1em;
+}

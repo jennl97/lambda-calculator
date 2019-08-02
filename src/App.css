@@ -1,0 +1,17 @@
+.display{
+    background-color: black;
+    color: white;
+    width: 50%;
+    padding: .5em;
+    border-radius: 30px;
+    margin: 5px 0;
+    
+}
+.main{
+    display: flex;
+    padding-bottom: .5em;
+}
+
+.left{
+    width: 50%;
+}
